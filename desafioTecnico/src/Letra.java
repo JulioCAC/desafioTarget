@@ -11,9 +11,9 @@ public class Letra {
             if (c == 'a' || c == 'A') {
                 count++;
             }
+
         }
 
         System.out.println("A letra 'a' aparece " + count + " vezes na string.");
-
     }
 }
